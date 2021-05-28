@@ -1,17 +1,17 @@
 {
-    "name": "sink-repair-api",
-    "version": "1.0.0",
-    "description": "Simple json-server database to deploy to the cloud",
-    "main": "server.js",
-    "scripts": {
-        "start": "node server.js"
-    },
-    "keywords": [
-        "json-server, node, REST API"
-    ],
-    "author": "NSS Student",
-    "license": "ISC",
-    "dependencies": {
-        "json-server": "^0.14.2"
-    }
+  "name": "giffygram-hotbot-api",
+  "version": "1.0.0",
+  "description": "Simple json-server database to deploy to the cloud",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "json-server, node, REST API"
+  ],
+  "author": "Gabriel Gonzales",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.14.2"
+  }
 }
